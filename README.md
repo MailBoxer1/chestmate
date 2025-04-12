@@ -29,7 +29,7 @@ Chestmate - это современная платформа электронн�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/chestmate.git
+git clone https://github.com/MailBoxer1/chestmate.git
 cd chestmate
 ```
 
